@@ -8,7 +8,7 @@
 
 共同作者：
 - Xunakun Yang (GitHub：[@xuankunyang](https://github.com/xuankunyang))
-- Junjie Yu (Github: [@JunjieYu28] (https://github.com/JunjieYu28))
+- Junjie Yu (GitHub: [@JunjieYu28](https://github.com/JunjieYu28))
 
 项目报告与演示文档：
 - 报告 PDF：[`ViT.pdf`](ViT.pdf)
@@ -186,7 +186,7 @@ python left/train.py --name exp_base_c10 \
 
 ## 引用与致谢
 
-- 共同作者：Xuankun Yang (GitHub：[@xuankunyang](https://github.com/xuankunyang))与 Junjie Yu。感谢共同完成模型实现、训练与可视化。
+- 共同作者：Xuankun Yang (GitHub：[@xuankunyang](https://github.com/xuankunyang))与 Junjie Yu (GitHub：[@JunjieYu28](https://github.com/JunjieYu28))。感谢共同完成模型实现、训练与可视化。
 - ViT 原始思想来源于 Google 的 Vision Transformer 论文与开源实现（本仓库部分配置与结构命名沿用其风格）。
 
 
